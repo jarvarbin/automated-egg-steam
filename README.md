@@ -3,6 +3,8 @@
 ![image](https://github.com/jarvarbin/automated-egg-steam/assets/93614373/fb5073ed-a3b5-4040-9a79-ad7010631ca8)
 
 ![image](https://github.com/jarvarbin/automated-egg-steam/assets/93614373/66dfcf58-fd2a-4e24-ad47-e63efc3e6244)
+
+
 This script is designed to automate the clicking process in a Steam game known as the "Egg Game". In this game, the main objective is to click on an egg as rapidly as possible. Players attempt to achieve the highest click rate without causing system instability. The optimal click rate is crucial for maximizing the number of clicks in a given period, potentially unlocking various in-game skins. These skins have a current market value of approximately 25 cents each.
 
 
