@@ -96,3 +96,6 @@ if __name__ == "__main__":
 ```
 
 The script execution starts here, setting the pause duration for pyautogui and calling the main function.
+
+![image](https://github.com/jarvarbin/automated-egg-steam/assets/93614373/1f94f502-f298-405d-b491-c43477633821)
+
