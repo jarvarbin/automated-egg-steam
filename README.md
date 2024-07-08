@@ -18,7 +18,9 @@ This script implements a multi-threaded automatic clicking program using the `th
 import threading
 import pyautogui
 from loguru import logger
-import time```
+import time
+
+```
 
 The following libraries are imported:
 
@@ -39,6 +41,7 @@ def click_thread(duration):
 This function continuously performs mouse clicks for a specified duration.
 
 Function perform_clicks
+
 ```
 def perform_clicks(total_duration: float, num_threads: int = 20) -> int:
     threads = []
@@ -56,9 +59,11 @@ def perform_clicks(total_duration: float, num_threads: int = 20) -> int:
     actual_duration = end_time - start_time
     return actual_duration
 ```
+
 This function manages the creation and execution of multiple threads (num_threads) that run the click_thread function for a total duration (total_duration). It returns the actual execution duration.
 
 Function main
+
 
 ```
 def main():
