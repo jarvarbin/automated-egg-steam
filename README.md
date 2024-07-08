@@ -14,7 +14,8 @@ This script implements a multi-threaded automatic clicking program using the `th
 
 ## Library Imports
 
-```python
+```
+
 import threading
 import pyautogui
 from loguru import logger
