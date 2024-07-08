@@ -59,6 +59,7 @@ def perform_clicks(total_duration: float, num_threads: int = 20) -> int:
 This function manages the creation and execution of multiple threads (num_threads) that run the click_thread function for a total duration (total_duration). It returns the actual execution duration.
 
 Function main
+
 ```
 def main():
     logger.info("Starting the multi-threaded automatic clicking program")
@@ -85,4 +86,5 @@ if __name__ == "__main__":
     pyautogui.PAUSE = 0.008  # Adjust this value to control the speed
     main()
 ```
+
 The script execution starts here, setting the pause duration for pyautogui and calling the main function.
